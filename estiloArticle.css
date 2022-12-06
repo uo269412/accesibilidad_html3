@@ -7,6 +7,7 @@ article {
     column-rule-width: thick;
 }
 @media only screen and (max-width: 768px) {
+    /*001*/
     article {
         column-count: 1;
         column-width: 8rem;
