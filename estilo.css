@@ -34,7 +34,7 @@ h3 {
     text-transform: uppercase;
     background-color:white;
 }
-h4 {
+button > p {
     font-size:1.05vw;
     text-decoration: underline;
 }
